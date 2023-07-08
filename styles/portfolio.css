@@ -54,10 +54,10 @@ nav a {
 /* header related style */
 .header {
   background: #0d0804;
-  background: url("../images/header_bg.png");
-  background-size: 500px;
+  background: url("../images/header_bg.png"),url("../images/developer.png");
+  background-size: 500px , 68px;
   background-repeat: no-repeat;
-  background-position: bottom right;
+  background-position: bottom right,bottom left;
 }
 .banner {
   padding: 30px 30px 0px 110px;
