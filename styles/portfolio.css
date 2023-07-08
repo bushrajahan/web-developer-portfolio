@@ -149,3 +149,10 @@ margin-bottom: 10px;
 .download-cv{
     text-align: center;
 }
+/* footer style */
+.footer-container{
+    display: flex;
+    background: #FFF8F3;
+    padding: 20px 150px;
+    margin-bottom: 100px;
+}
