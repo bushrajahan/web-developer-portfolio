@@ -125,14 +125,27 @@ main {
 
   font-size: 16px;
 }
-manin section{
+main section{
     margin-top: 130px ;
 }
 .resume-column-title{
 color:  #474747;
-
-font-size: 30px;
-
+font-size: 15px;
 font-weight: 700;
-
+margin-bottom: 10px;
+}
+.resume-container{
+    display: flex;
+    gap:50px;
+    
+}
+.resume-item-inistitute{
+    margin-bottom: 20px;
+}
+.resume-item-inistitute, .resume-item-description{
+    color: #757575;
+    font-size: 10px;
+}
+.download-cv{
+    text-align: center;
 }
